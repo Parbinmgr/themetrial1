@@ -1,0 +1,46 @@
+.entry-title a{
+	text-decoration: none;
+}
+.carousel{  background: #000 ; }
+
+/*
+html,
+body{
+	margin: 0;
+	color: #333;
+	background: #eee;
+	font: sans-serif;
+}
+body {
+	padding: 28px ;
+}
+*/
+
+.carousel .carousel-item{
+    
+    height: 490px;
+    overflow: hidden;
+    
+}
+
+.carousel .carousel-item img {
+	height: 100%;
+	width: 100% ;
+	opacity: 0.8 ;
+}
+.row .col-xs-12 .pull-right {
+	float: right;
+
+}
+
+
+.row {
+	margin-top: 65px ;
+}  
+footer {
+	   
+}
+
+footer .footer-face{
+	
+}
